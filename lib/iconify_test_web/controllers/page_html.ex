@@ -1,4 +1,6 @@
 defmodule IconifyTestWeb.PageHTML do
+      import Iconify
+
   @moduledoc """
   This module contains pages rendered by PageController.
 
